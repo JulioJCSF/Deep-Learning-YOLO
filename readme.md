@@ -110,8 +110,6 @@ A resolução maior **não melhorou o mAP**: o ganho de recall foi compensado po
 
 ## Resultados visuais
 
-> **Para o grupo:** crie uma pasta `imagens/` no repositório e suba os arquivos gerados pelo notebook (estão em `runs/detect/pcb_yolov8m/` no Colab). Depois confira se os nomes abaixo batem com os que você subiu.
-
 ### Curvas de treino
 ![Curvas de treino](imagens/results.png)
 
